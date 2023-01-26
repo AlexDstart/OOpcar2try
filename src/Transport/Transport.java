@@ -21,6 +21,8 @@ public class Transport {
                 color = "белый";
             }
 
+
+
             this.brand = brand;
             this.model = model;
             this.color = color;
