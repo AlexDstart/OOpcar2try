@@ -27,5 +27,7 @@ public class Main {
 
         Bus myBus=new Bus("МАЗ","Краз","черный",2022,"Россия",130);
         System.out.println(myBus);
+
+
     }
 }

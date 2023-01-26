@@ -98,6 +98,8 @@ public class Car extends Transport {
                     ", количество мест = " + capacity + '\'' +
                     (seasonTires ? "зимняя" : "летняя " + "резина") + '\'';
         }
+
+
     }
 
 
